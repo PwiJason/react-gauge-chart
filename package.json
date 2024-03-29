@@ -1,7 +1,7 @@
 {
   "name": "gauge-chart",
   "version": "0.0.0",
-  "description": "**A library for creating nice and flexible gauge charts.**",
+  "description": "**A react library for creating nice and flexible gauge charts.**",
   "main": "dist/commonjs-bundle.js",
   "author": "",
   "license": "ISC",
@@ -31,7 +31,8 @@
   },
   "dependencies": {
     "d3": "^4.13.0",
-    "d3-scale-chromatic": "^1.5.0"
+    "d3-scale-chromatic": "^1.5.0",
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
